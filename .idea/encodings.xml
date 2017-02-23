@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/dbs/dbs.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/public/css/baidunews.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/css/bg.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/css/bootstrap.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/css/font-awesome.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/font" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/12.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/public/img/13.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/public/img/bg-news-logo_344ce44.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/icon雪碧.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/nav-down.png" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+.zhaomu a:hover{
+    text-decoration: none;
+}
+
+.zhaomu i{
+    padding-right: 8px;
+}
+
+td{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100px;
+}
+tr{
+    max-width: 1000px;
+}
+
+a,i{
+    cursor: pointer;
+}
+
+.bgnews{
+    display: none;
+}
+/*.bgnews{*/
+    /*position: relative;*/
+    /*left: 0px!important;*/
+    /*top: 0px!important;*/
+
+/*}*/
